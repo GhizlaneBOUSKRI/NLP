@@ -3,7 +3,7 @@ Natural language processing
 
 
 This project will be attempting to classify Yelp Reviews into 1 star or 5 star categories based on the text content in the reviews.
-The data comes from Yelp Review Data Set from Kaggle.
+The data comes from Yelp Review Data Set from Kaggle (https://www.kaggle.com/c/yelp-recsys-2013)
 Each observation in this dataset is a review of a particular business by a particular user.
 The "stars" column is the number of stars (1 through 5) assigned by the reviewer to the business. (Higher stars is better.) In other words, it is the rating of the business by the person who wrote the review.
 The "cool" column is the number of "cool" votes this review received from other Yelp users.
